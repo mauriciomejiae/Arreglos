@@ -1,0 +1,6 @@
+C:\Users\Mauricio M\Downloads\Arreglos\Arreglos\bin\Debug\Arreglos.exe.config
+C:\Users\Mauricio M\Downloads\Arreglos\Arreglos\bin\Debug\Arreglos.exe
+C:\Users\Mauricio M\Downloads\Arreglos\Arreglos\bin\Debug\Arreglos.pdb
+C:\Users\Mauricio M\Downloads\Arreglos\Arreglos\obj\Debug\Arreglos.csprojResolveAssemblyReference.cache
+C:\Users\Mauricio M\Downloads\Arreglos\Arreglos\obj\Debug\Arreglos.exe
+C:\Users\Mauricio M\Downloads\Arreglos\Arreglos\obj\Debug\Arreglos.pdb
